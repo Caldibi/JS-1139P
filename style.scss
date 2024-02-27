@@ -1,0 +1,87 @@
+body {
+  background-image: url(bg.webp);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+  color: white;
+
+  .container {
+    .clupdiv1 {
+      
+      .btn5 {
+        margin-bottom: 5px;
+        height: 50px;
+        width: 450px;
+      }
+      p{
+        width: 450px;
+        height: 50px;
+      }
+    }
+    .clupdiv2 {
+      
+      margin-left: 190px;
+      .btn6 {
+        margin-left: -5px;
+        margin-bottom: 5px;
+        height: 50px;
+        width: 450px;
+      }
+      p{
+        width: 450px;
+        height: 50px;
+       
+      }
+    }
+
+    .clup {
+      font-size: 30px;
+      font-weight: 700;
+      text-align: center;
+    }
+    .clupCol {
+      display: flex;
+    }
+
+    .imgSoccer {
+      height: 300px;
+      width: 450px;
+      border: 1px solid grey;
+    }
+    .valueDiv {
+      height: 300px;
+      width: 200px;
+      text-align: center;
+      align-items: center;
+      vertical-align: middle;
+      p {
+        font-size: 170px;
+        font-weight: 400;
+      }
+    }
+    .btn1 {
+      margin-top: 10px;
+      height: 50px;
+      width: 100px;
+    }
+
+    .btn2Div {
+      margin-left: 190px;
+      .btn2 {
+        margin-top: 10px;
+
+        height: 50px;
+        width: 100px;
+      }
+      .btn4 {
+        height: 50px;
+        width: 235px;
+      }
+    }
+    .btn3 {
+      height: 50px;
+      width: 240px;
+    }
+  }
+}
